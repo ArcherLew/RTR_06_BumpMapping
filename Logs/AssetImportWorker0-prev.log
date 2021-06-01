@@ -1,0 +1,164 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'zh' Physical Memory: 16319 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity2020\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+F:/_Unity2020/RTR_06_BumpMapping
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61953
+Successfully changed project path to: F:/_Unity2020/RTR_06_BumpMapping
+F:/_Unity2020/RTR_06_BumpMapping
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 45.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity2020/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/_Unity2020/RTR_06_BumpMapping/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   26.21.14.3200
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity2020/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity2020/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity2020/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56496
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity2020/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001353 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.823 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001480 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.838 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2720 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 120.8 MB.
+System memory in use after: 118.1 MB.
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 3112.
+Total: 3.279400 ms (FindLiveObjects: 0.385800 ms CreateObjectMapping: 0.194200 ms MarkObjects: 1.548800 ms  DeleteObjects: 1.149800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/BumpMap/Textures/hight_map.png
+  artifactKey: Guid(b5c98e68bee3d604581af16bec75b11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/Textures/hight_map.png using Guid(b5c98e68bee3d604581af16bec75b11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea12c24da4345caa1be85924c3db2c0e') in 0.067756 seconds
+  Import took 0.090625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/BumpMap/Textures/ston_texture.png
+  artifactKey: Guid(31a83c735de60c746829207d004c9346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/Textures/ston_texture.png using Guid(31a83c735de60c746829207d004c9346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff12a8dc63aa64a18c7eee1c7a265925') in 0.015828 seconds
+  Import took 0.021193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/BumpMap/Textures/normal_map.png
+  artifactKey: Guid(8a609a109eb90db47880be24139d26d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/Textures/normal_map.png using Guid(8a609a109eb90db47880be24139d26d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4db011577d8845085ab43445052ce54e') in 0.024830 seconds
+  Import took 0.044538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 131.058157 seconds.
+  path: Assets/BumpMap/Shader/Bump Mapping.shader
+  artifactKey: Guid(c5640d48f9559b542a0b817af6917e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/Shader/Bump Mapping.shader using Guid(c5640d48f9559b542a0b817af6917e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3589d97c4b0536fbef412b237df8d89') in 0.030171 seconds
+  Import took 0.043145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118459 seconds.
+  path: Assets/BumpMap/Shader/Bump Mapping.shader
+  artifactKey: Guid(c5640d48f9559b542a0b817af6917e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/Shader/Bump Mapping.shader using Guid(c5640d48f9559b542a0b817af6917e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3589d97c4b0536fbef412b237df8d89') in 0.001595 seconds
+  Import took 0.005197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3205.958369 seconds.
+  path: Assets/BumpMap/Shader
+  artifactKey: Guid(99a00c1146b52a544a65c1c653afbdc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/Shader using Guid(99a00c1146b52a544a65c1c653afbdc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b55caaed9032e2064619222af3616c') in 0.008644 seconds
+  Import took 0.082840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2023.855600 seconds.
+  path: Assets/BumpMap/BumpMapping.mat
+  artifactKey: Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/BumpMapping.mat using Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be8cf70b9720eac8917f4e15973b1aa') in 0.565894 seconds
+  Import took 0.603772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 383.488544 seconds.
+  path: Assets/BumpMap/BumpMapping.mat
+  artifactKey: Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/BumpMapping.mat using Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec2044ad0048b3e61728dd71daec1fd1') in 0.025075 seconds
+  Import took 0.029907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 376.895591 seconds.
+  path: Assets/BumpMap/BumpMapping.mat
+  artifactKey: Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/BumpMapping.mat using Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63ff8e2e4ac164f2571a97eb74cc2219') in 0.027131 seconds
+  Import took 0.037740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1455.869312 seconds.
+  path: Assets/BumpMap/BumpMapping.mat
+  artifactKey: Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/BumpMapping.mat using Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6689f4f87ff02efc9ddc2566b25ebee9') in 0.039914 seconds
+  Import took 0.052201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12105.098692 seconds.
+  path: Assets/BumpMap/BumpMapping.mat
+  artifactKey: Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BumpMap/BumpMapping.mat using Guid(95cf8e4a694cf9c4aaadfa97f4f4dce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e7b147e410378c83425a39a8113286c') in 0.090031 seconds
+  Import took 0.124270 seconds .
+
